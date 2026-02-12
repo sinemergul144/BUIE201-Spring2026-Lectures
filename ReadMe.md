@@ -2,7 +2,7 @@
 
 **Type:** Required
 
-**Credits/ECTS:** 3 Credits / 6 ECTS
+**Credits/ECTS:** 34 Credits / 6 ECTS
 
 **Class/Laboratory/PS schedule:** 
 
